@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## React Toy Project
 
 You can use the [editor on GitHub](https://github.com/icemokacat/webpack-for-react/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
